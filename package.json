@@ -1,0 +1,7 @@
+{
+  "name": "audit-village",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "build": "tsc -p tsconfig.json", "test": "node tests/smoke.cjs" },
+  "devDependencies": { "typescript": "7.0.2" }
+}
